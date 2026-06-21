@@ -13,6 +13,30 @@
 - QQ：2823502217
 - 微信：szh15550288846
 
+## 📊 GitHub 统计数据
+<p align="center">
+  <img
+    width="430"
+    height="190"
+    src="https://github-readme-stats.vercel.app/api?username=songs66&show_icons=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=30363d&border_radius=10&rank_icon=github&card_width=430"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="430"
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=songs66&layout=compact&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6&card_width=430"
+  />
+</p>
+
+## 📈 GitHub 近期活动图
+
+<p align="center">
+  <img
+    width="860"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=songs66&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=8b949e&area=true&hide_border=false&border_color=30363d&radius=10"
+  />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+see,I+like,I+go,I+get;No+one+can+hold+me+back!&fontSize=24&color=FF5F9E" alt="Typing SVG" />
 </div>
