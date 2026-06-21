@@ -1,4 +1,4 @@
-# 宋子豪（Song Zihao）
+# 👋 Hi there, I'm 宋子豪（Song Zihao）
 
 > From Jinan, Shandong Province, China  
 > School of Information Science and Engineering, University of Jinan    
