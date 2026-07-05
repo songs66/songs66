@@ -18,15 +18,15 @@
   <img
     width="430"
     height="190"
+    src="./assets/github-stats.svg"
     alt="Song Zihao's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=songs66&amp;show_icons=true&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=8b949e&amp;border_color=30363d&amp;border_radius=10&amp;rank_icon=github&amp;card_width=430&amp;cache_seconds=86400"
   />
   &nbsp;&nbsp;
   <img
     width="430"
     height="190"
+    src="./assets/top-langs.svg"
     alt="Song Zihao's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=songs66&amp;layout=compact&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=10&amp;langs_count=6&amp;card_width=430&amp;cache_seconds=86400"
   />
 </p>
 
