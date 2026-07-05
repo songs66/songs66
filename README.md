@@ -21,7 +21,6 @@
     src="https://raw.githubusercontent.com/songs66/songs66/main/assets/github-stats.svg?v=20260705-beauty1"
     alt="Song Zihao's GitHub Stats"
   />
-  &nbsp;&nbsp;
   <img
     width="430"
     height="190"
