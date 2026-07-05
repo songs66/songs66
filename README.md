@@ -18,13 +18,15 @@
   <img
     width="430"
     height="190"
-    src="https://github-readme-stats.vercel.app/api?username=songs66&show_icons=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=30363d&border_radius=10&rank_icon=github&card_width=430"
+    alt="Song Zihao's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=songs66&amp;show_icons=true&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=8b949e&amp;border_color=30363d&amp;border_radius=10&amp;rank_icon=github&amp;card_width=430&amp;cache_seconds=86400"
   />
   &nbsp;&nbsp;
   <img
     width="430"
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=songs66&layout=compact&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6&card_width=430"
+    alt="Song Zihao's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=songs66&amp;layout=compact&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=10&amp;langs_count=6&amp;card_width=430&amp;cache_seconds=86400"
   />
 </p>
 
