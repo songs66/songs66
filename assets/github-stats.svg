@@ -37,13 +37,13 @@
     <rect x="24" y="63" width="178" height="43" rx="12" fill="#0f172a" stroke="#30363d" opacity="0.94"/>
     <circle cx="41" cy="79" r="5" fill="#58a6ff" opacity="0.95"/>
     <text x="54" y="81" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Repositories</text>
-    <text x="54" y="98" fill="#e6edf3" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">11</text>
+    <text x="54" y="98" fill="#e6edf3" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">13</text>
   </g>
   <g filter="url(#soft-shadow)">
     <rect x="228" y="63" width="178" height="43" rx="12" fill="#0f172a" stroke="#30363d" opacity="0.94"/>
     <circle cx="245" cy="79" r="5" fill="#ffdf5d" opacity="0.95"/>
     <text x="258" y="81" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Stars</text>
-    <text x="258" y="98" fill="#e6edf3" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">21</text>
+    <text x="258" y="98" fill="#e6edf3" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">22</text>
   </g>
   <g filter="url(#soft-shadow)">
     <rect x="24" y="116" width="178" height="43" rx="12" fill="#0f172a" stroke="#30363d" opacity="0.94"/>
@@ -55,10 +55,10 @@
     <rect x="228" y="116" width="178" height="43" rx="12" fill="#0f172a" stroke="#30363d" opacity="0.94"/>
     <circle cx="245" cy="132" r="5" fill="#7ee787" opacity="0.95"/>
     <text x="258" y="134" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Languages</text>
-    <text x="258" y="151" fill="#e6edf3" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">6+</text>
+    <text x="258" y="151" fill="#e6edf3" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">16</text>
   </g>
   <rect x="24" y="169" width="382" height="1" fill="url(#accent-grad)" opacity="0.50"/>
-  <text x="24" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10">Primary: <tspan fill="#58a6ff" font-weight="700">C</tspan> · Self-hosted stable SVG</text>
-  <text x="406" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10" text-anchor="end">2026-07-05</text>
+  <text x="24" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10">Primary: <tspan fill="#58a6ff" font-weight="700">C</tspan> · Code size: 1.7 MB</text>
+  <text x="406" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10" text-anchor="end">2026-07-06</text>
 
 </svg>
