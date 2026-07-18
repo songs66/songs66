@@ -18,13 +18,13 @@
   <img
     width="430"
     height="190"
-    src="https://raw.githubusercontent.com/songs66/songs66/main/assets/github-stats.svg?v=20260717033657"
+    src="https://raw.githubusercontent.com/songs66/songs66/main/assets/github-stats.svg?v=20260718033206"
     alt="Song Zihao's GitHub Stats"
   />
   <img
     width="430"
     height="190"
-    src="https://raw.githubusercontent.com/songs66/songs66/main/assets/top-langs.svg?v=20260717033657"
+    src="https://raw.githubusercontent.com/songs66/songs66/main/assets/top-langs.svg?v=20260718033206"
     alt="Song Zihao's Top Languages"
   />
 </p>
