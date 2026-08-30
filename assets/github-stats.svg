@@ -58,7 +58,7 @@
     <text x="258" y="151" fill="#e6edf3" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">16</text>
   </g>
   <rect x="24" y="169" width="382" height="1" fill="url(#accent-grad)" opacity="0.50"/>
-  <text x="24" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10">Primary: <tspan fill="#58a6ff" font-weight="700">C</tspan> · Code size: 1.7 MB</text>
-  <text x="406" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10" text-anchor="end">2026-08-29</text>
+  <text x="24" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10">Primary: <tspan fill="#58a6ff" font-weight="700">C</tspan> · Code size: 1.9 MB</text>
+  <text x="406" y="182" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10" text-anchor="end">2026-08-30</text>
 
 </svg>
